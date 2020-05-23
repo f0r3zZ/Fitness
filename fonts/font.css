@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Avenir Next Rounded Std';
+    src: local('Avenir Next Rounded Std Regular'), local('Avenir-Next-Rounded-Std-Regular'),
+        url('AvenirNextRoundedStd-Reg.woff2') format('woff2'),
+        url('AvenirNextRoundedStd-Reg.woff') format('woff'),
+        url('AvenirNextRoundedStd-Reg.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
